@@ -23,7 +23,7 @@ function normalizeFileName(file) {
 
 function createTypeDefinition() {
   // eslint-disable-next-line quotes
-  return `export { default } from 'material-ui/SvgIcon';`;
+  return `export { default } from 'material-ui-next/SvgIcon';`;
 }
 
 function createIconTyping(file) {

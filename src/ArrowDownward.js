@@ -1,6 +1,6 @@
 import React from 'react';
 import pure from 'recompose/pure';
-import SvgIcon from 'material-ui/SvgIcon';
+import SvgIcon from 'material-ui-next/SvgIcon';
 
 const SvgIconCustom = global.__MUI_SvgIcon__ || SvgIcon;
 
